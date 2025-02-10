@@ -51,3 +51,22 @@ Este projeto foi desenvolvido para consolidar os conceitos sobre o uso de interf
 
 6. **Organização do Código**
    - O código está bem estruturado e comentado para facilitar o entendimento.
+
+## Instalação
+
+1. Clone o repositório:
+   ```bash
+   git clone https://github.com/ricardo-rals/comunicacao-serial-RP2040.git
+   cd comunicacao-serial-RP2040
+   ```
+
+2. Abra o projeto no Visual Studio Code.
+
+3. Configure o SDK do Raspberry Pi Pico W de acordo com a [documentação oficial](https://datasheets.raspberrypi.com/pico/getting-started-with-pico.pdf).
+
+4. Siga as instruções no Visual Studio Code para compilar e carregar o projeto no seu Raspberry Pi Pico.
+
+## Video de Apresentação
+
+Para um guia visual sobre como configurar e executar este projeto, confira este.
+[YouTube video](https://youtu.be/63urmSieZVo).
